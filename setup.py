@@ -42,6 +42,7 @@ setup(
         'plone.app.upgrade',
         'Products.CMFPlone >=4.3',
         'Products.GenericSetup',
+        'rdflib',
         'setuptools',
         'zope.i18nmessageid',
         'zope.interface',
